@@ -1,0 +1,17 @@
+
+
+.cont {
+    width: 500px;
+}
+
+.submit {
+    margin-top: 20px;
+    height: 100px;
+    width: 400px;
+}
+
+#pictureBlock {
+    align-items: center;
+    margin-left: 300px;
+    color: red;
+}
